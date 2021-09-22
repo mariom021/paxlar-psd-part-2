@@ -1,0 +1,13 @@
+@media(max-width:767px){
+    .btn_join{
+        display: none;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        margin-left:0px;
+        display: inline-block;
+        margin-bottom: 7px;
+    }
+    .large_btn_join{
+        display: inherit;
+    }
+}
